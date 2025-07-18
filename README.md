@@ -12,7 +12,6 @@ Currently collaborating with **Manning Publishing**, I'm developing learning res
 
 As a seasoned international speaker, I’ve delivered talks in 8+ countries at events such as **Scala Days**, **Google Open Source Conference**, and **Bay Area Scala Conference**, engaging audiences on AI, functional programming, data engineering, and software design.
 
----
 
 ### 🎤 Past Speaking Highlights
 
@@ -30,9 +29,8 @@ As a seasoned international speaker, I’ve delivered talks in 8+ countries at e
 
 Frequent speaker at:  
 - London Scala User Group  
-- Scalabridge  
+- Scalabridge (London)
 - Google Open Source Conferences
 
----
 
 I'm committed to **mentoring developers**, **building inclusive communities**, and advancing the global adoption of **Scala**, **open source**, and **ethical AI**.
