@@ -13,7 +13,7 @@ Currently collaborating with **Manning Publishing**, I'm developing learning res
 As a seasoned international speaker, I’ve delivered talks in 8+ countries at events such as **Scala Days**, **Google Open Source Conference**, and **Bay Area Scala Conference**, engaging audiences on AI, functional programming, data engineering, and software design.
 
 
-### 🎤 Past Speaking Highlights
+### Speaking Highlights
 
 **2023–2025**: 
 - Bay Area Scala Conference (USA)
