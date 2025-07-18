@@ -21,7 +21,7 @@ As a seasoned international speaker, I’ve delivered talks in 8+ countries at e
 - Art of Scala (Warsaw)  
 - ScalaIO (Paris)  
 - Functional World (Poland)  
-- GSoC Mentor Summits (California, Munich)  
+- Google Summer Of Code Mentor Summits (California, Munich)  
 - Scala India  
 - Scala Workshop (Singapore)  
 - ...and more
