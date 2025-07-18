@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kanhupriya Kalra
+# 👋 Hi, I'm Kannupriya Kalra
 
 **Engineering Leader & Scala Developer | AI Educator & Community Builder | Open Source Mentor**
 
