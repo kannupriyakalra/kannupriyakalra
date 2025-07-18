@@ -16,14 +16,16 @@ As a seasoned international speaker, I’ve delivered talks in 8+ countries at e
 
 ### 🎤 Past Speaking Highlights
 
-**2023–2025**:  
+**2023–2025**: 
+- Bay Area Scala Conference (USA)
 - Scala Days (Switzerland)  
 - Art of Scala (Warsaw)  
 - ScalaIO (Paris)  
 - Functional World (Poland)  
 - Google Summer Of Code Mentor Summits (California, Munich)  
 - Scala India  
-- Scala Workshop (Singapore)  
+- Scala Workshop (Singapore)
+- Dallas Scala Enthusiasts (Texas, USA)
 - ...and more
 
 Frequent speaker at:  
