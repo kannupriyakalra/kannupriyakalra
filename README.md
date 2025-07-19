@@ -39,7 +39,7 @@ I'm committed to **mentoring developers**, **building inclusive communities**, a
 </p>
 
 **Cheers to showing up every day, even when it's hard and becoming a little better each time.** ✨  
-This photo from my first day at Sky in 2022 is a reminder for me, progress isn’t always loud, but it’s always worth it. 💻🎾  
+This photo from my first day at the Sky Sports Studio in 2022 serves as a reminder for me, progress isn’t always loud, but it’s always worth it. 💻🎾  
 Grateful for the journey so far, and trust in the universe for the path forward it's creating for me. 💫  
 
 
