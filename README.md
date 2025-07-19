@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kannupriya Kalra
+# 👋 Hi, I'm Kannupriya 
 
 **Engineering Leader & Scala Developer | AI Educator & Community Builder | Open Source Mentor**
 
@@ -32,3 +32,33 @@ Frequent speaker at:
 - Google Open Source Conferences
 
 I'm committed to **mentoring developers**, **building inclusive communities**, and advancing the global adoption of **Scala**, **open source**, and **ethical AI**.
+
+
+<p align="center">
+  <img src="./sky_sports_hq_new_job_started.jpeg" alt="First day at Sky Sports HQ" />
+</p>
+
+**Cheers to showing up every day, even when it's hard and becoming a little better each time.** ✨  
+This photo from my first day at Sky in 2022 is a reminder: progress isn’t always loud, but it’s always worth it. 💻🎾  
+Grateful for the journey so far, and trust in the universe for the path forward it's creating for me. 💫  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
