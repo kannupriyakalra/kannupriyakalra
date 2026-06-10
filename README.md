@@ -14,7 +14,7 @@ As a seasoned international speaker, I’ve delivered talks in 8+ countries at e
 
 ### Speaking Highlights
 
-**2023–2025**: 
+**2023–2026**: 
 - Bay Area Scala Conference (USA)
 - Scala Days (Switzerland)  
 - Art of Scala (Warsaw)  
