@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kannupriya
 
-**Engineering Leader & Scala Developer | AI Educator & Community Builder | Open Source Mentor**
+**Engineering Leader & Scala Developer | AI Author & LLM Engineer | AI Educator & Community Builder | Open Source Mentor**
 
 With over a decade of experience designing scalable backend systems using functional programming, I specialize in building resilient, high-availability platforms with Scala. At Sky, London, I led critical backend development using functional Scala to power large-scale operations.
 
@@ -8,11 +8,11 @@ A passionate contributor to the Scala ecosystem, I co-created **[LLM4S](https://
 I am a **core maintainer** of LLM4S, Copilot Lens, triage4s, typesafe4s, and the Reign repositories listed below. I also maintain **[Scaladex](https://github.com/scalacenter/scaladex)** and support initiatives under **[Google Summer of Code](https://github.com/scalacenter/GoogleSummerOfCode?tab=readme-ov-file)**.
 
 I'm also building a global AI community focused on responsible and accessible AI development. I offer AI training and education for developers and teams – bridging the gap between functional programming and practical AI applications.
-I co-created **four hands-on AI courses (Manning liveProjects)** with **Pavan Vamsi**, based on Amit Bahree's **[Generative AI in Action](https://www.manning.com/books/generative-ai-in-action)**. See the AI Education section below.
+I co-created **four hands-on AI courses (Manning liveProjects)** with **Pavan Vamsi**, based on Amit Bahree's **[Generative AI in Action](https://www.manning.com/books/generative-ai-in-action)**. See the AI Author & LLM Engineer section below.
 
 As a seasoned international speaker, I’ve delivered talks in 8+ countries at events such as **Scala Days**, **Google Open Source Conference**, and **Bay Area Scala Conference**, engaging audiences on AI, functional programming, data engineering, and software design.
 
-### AI Education
+### AI Author & LLM Engineer
 
 I co-authored four hands-on AI courses with **Pavan Vamsi**, published by **Manning** as the *AI-Powered Document Assistant: From Text to Insights* liveProject series. Based on **[Generative AI in Action](https://www.manning.com/books/generative-ai-in-action)** by **Amit Bahree**, the courses guide developers through building AI-powered document applications:
 
@@ -20,6 +20,14 @@ I co-authored four hands-on AI courses with **Pavan Vamsi**, published by **Mann
 2. [Smart Document Q&A System](https://www.manning.com/liveproject/smart-document-qa-system)
 3. [Multi-Document Processing Pipeline](https://www.manning.com/liveproject/multi-document-processing-pipeline)
 4. [Interactive Document Assistant Application](https://www.manning.com/liveproject/interactive-document-assistant-application)
+
+#### Courses in Development
+
+As an **AI Author and LLM Engineer**, I am currently creating multiple courses based on the following Manning books, covering large language models, reasoning models, and multi-agent systems:
+
+- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+- [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch) by Sebastian Raschka
+- [Build a Multi-Agent System (from Scratch)](https://www.manning.com/books/build-a-multi-agent-system-from-scratch) by Val Andrei Fajardo
 
 ### Core Maintainer Roles
 
