@@ -29,7 +29,7 @@ Since launching around **April 2026**, the series and individual courses have re
 
 #### Editorial Recommendation
 
-In a [LinkedIn recommendation](https://www.linkedin.com/in/kannupriyakalra/details/recommendations/) dated **2 September 2026**, **Snehal Main, Acquisition Editor at Manning**, highlighted the series' very strong sales, the quality of the learning experience, and my ability to make complex AI concepts accessible to beginners. She also described our continued collaboration on additional courses.
+In a [LinkedIn recommendation](https://www.linkedin.com/in/kannupriyakalra/details/recommendations/) dated **2 September 2026**, **[Snehal Main](https://www.linkedin.com/in/snehal-main-7754aa123/), Acquisition Editor at Manning**, highlighted the series' very strong sales, the quality of the learning experience, and my ability to make complex AI concepts accessible to beginners. She also described our continued collaboration on additional courses.
 
 ![LinkedIn recommendation from Snehal Main, Acquisition Editor at Manning, dated 2 September 2026](assets/manning-snehal-main-linkedin-recommendation-september-2026.png)
 
