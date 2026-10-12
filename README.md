@@ -21,6 +21,12 @@ I co-authored four hands-on AI courses with **Pavan Vamsi**, published by **Mann
 3. [Multi-Document Processing Pipeline](https://www.manning.com/liveproject/multi-document-processing-pipeline)
 4. [Interactive Document Assistant Application](https://www.manning.com/liveproject/interactive-document-assistant-application)
 
+#### Course Sales
+
+Since launching around **April 2026**, the series and individual courses have recorded **163 product sales** as shown in my Manning author dashboard in **October 2026**: **155 series purchases** and **8 individual-course purchases**.
+
+![Manning author dashboard showing 163 total product sales: 155 series purchases and 8 individual-course purchases, October 2026](assets/manning-ai-course-sales-october-2026.png)
+
 #### Courses in Development
 
 As an **AI Author and LLM Engineer**, I am currently creating multiple courses based on the following Manning books, covering large language models, reasoning models, and multi-agent systems:
