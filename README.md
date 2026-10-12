@@ -27,9 +27,15 @@ Since launching around **April 2026**, the series and individual courses have re
 
 ![Manning author dashboard showing 163 total product sales: 155 series purchases and 8 individual-course purchases, October 2026](assets/manning-ai-course-sales-october-2026.png)
 
+#### Editorial Recommendation
+
+In a [LinkedIn recommendation](https://www.linkedin.com/in/kannupriyakalra/details/recommendations/) dated **2 September 2026**, **Snehal Main, Acquisition Editor at Manning**, highlighted the series' very strong sales, the quality of the learning experience, and my ability to make complex AI concepts accessible to beginners. She also described our continued collaboration on additional courses.
+
+![LinkedIn recommendation from Snehal Main, Acquisition Editor at Manning, dated 2 September 2026](assets/manning-snehal-main-linkedin-recommendation-september-2026.png)
+
 #### Courses in Development
 
-As an **AI Author and LLM Engineer**, I am currently creating multiple courses based on the following Manning books, covering large language models, reasoning models, and multi-agent systems:
+Following the strong sales of my first AI course series, I secured further contracts to create courses based on **three additional Manning books**. As an **AI Author and LLM Engineer**, I am currently developing multiple courses covering large language models, reasoning models, and multi-agent systems:
 
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
 - [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch) by Sebastian Raschka
