@@ -8,9 +8,18 @@ A passionate contributor to the Scala ecosystem, I co-created **[LLM4S](https://
 I am a **core maintainer** of LLM4S, Copilot Lens, triage4s, typesafe4s, and the Reign repositories listed below. I also maintain **[Scaladex](https://github.com/scalacenter/scaladex)** and support initiatives under **[Google Summer of Code](https://github.com/scalacenter/GoogleSummerOfCode?tab=readme-ov-file)**.
 
 I'm also building a global AI community focused on responsible and accessible AI development. I offer AI training and education for developers and teams – bridging the gap between functional programming and practical AI applications.
-Currently collaborating with **Manning Publishing**, I'm developing learning resources to help engineers navigate the future of **Generative AI**.
+I co-created **four hands-on AI courses (Manning liveProjects)** with **Pavan Vamsi**, based on Amit Bahree's **[Generative AI in Action](https://www.manning.com/books/generative-ai-in-action)**. See the AI Education section below.
 
 As a seasoned international speaker, I’ve delivered talks in 8+ countries at events such as **Scala Days**, **Google Open Source Conference**, and **Bay Area Scala Conference**, engaging audiences on AI, functional programming, data engineering, and software design.
+
+### AI Education
+
+I co-authored four hands-on AI courses with **Pavan Vamsi**, published by **Manning** as the *AI-Powered Document Assistant: From Text to Insights* liveProject series. Based on **[Generative AI in Action](https://www.manning.com/books/generative-ai-in-action)** by **Amit Bahree**, the courses guide developers through building AI-powered document applications:
+
+1. [Document Text Analyzer](https://www.manning.com/liveproject/document-text-analyzer)
+2. [Smart Document Q&A System](https://www.manning.com/liveproject/smart-document-qa-system)
+3. [Multi-Document Processing Pipeline](https://www.manning.com/liveproject/multi-document-processing-pipeline)
+4. [Interactive Document Assistant Application](https://www.manning.com/liveproject/interactive-document-assistant-application)
 
 ### Core Maintainer Roles
 
