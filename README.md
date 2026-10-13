@@ -49,6 +49,8 @@ Following the strong sales of my first AI course series, I secured further contr
 | **Copilot Lens** | Local search and browsing for AI coding-assistant conversations. | [pavanvamsi3/copilot-lens](https://github.com/pavanvamsi3/copilot-lens) |
 | **triage4s** | Evidence-backed AI issue triage for Scala, powered by LLM4S. | [pavanvamsi3/triage4s](https://github.com/pavanvamsi3/triage4s) |
 | **typesafe4s** | A Scala 3 SDK for the TypeSafe System One API. | [gruggiero/typesafe4s](https://github.com/gruggiero/typesafe4s) |
+| **Scaladex** | Maintainer. | [scalacenter/scaladex](https://github.com/scalacenter/scaladex) |
+| **Google Summer of Code** | Organization Administrator & Mentor (2024, 2025). | [scalacenter/GoogleSummerOfCode](https://github.com/scalacenter/GoogleSummerOfCode) |
 | **Reign** (private repository) | An offline, gamified iOS habit tracker built with SwiftUI. | [hummingbatman/reign](https://github.com/hummingbatman/reign) |
 | **Reign Android** (private repository) | The native Kotlin and Jetpack Compose Android app, following the same habit-progression rules. | [hummingbatman/reign_android](https://github.com/hummingbatman/reign_android) |
 | **Reign Rulebook** (private repository) | Shared reference scenarios and expected results that keep the iOS and Android progression engines consistent. | [hummingbatman/reign_rulebook](https://github.com/hummingbatman/reign_rulebook) |
