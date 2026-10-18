@@ -52,9 +52,9 @@ Following the strong sales of my first AI course series, I secured further contr
 | **Scaladex** | Maintainer of the Scala library index, helping developers discover open-source libraries and library authors promote projects and find contributors. | [scalacenter/scaladex](https://github.com/scalacenter/scaladex) |
 | **math-stats** | Maintainer of a JavaScript statistics library with functions for mean, median, mode, variance, and standard deviation. | [pugulist/math-stats](https://github.com/pugulist/math-stats) |
 | **Google Summer of Code** | Organization Administrator & Mentor (2024, 2025). | [scalacenter/GoogleSummerOfCode](https://github.com/scalacenter/GoogleSummerOfCode) |
-| **Reign** (private repository) | An offline, gamified iOS habit tracker built with SwiftUI. | [hummingbatman/reign](https://github.com/hummingbatman/reign) |
-| **Reign Android** (private repository) | The native Kotlin and Jetpack Compose Android app, following the same habit-progression rules. | [hummingbatman/reign_android](https://github.com/hummingbatman/reign_android) |
-| **Reign Rulebook** (private repository) | Shared reference scenarios and expected results that keep the iOS and Android progression engines consistent. | [hummingbatman/reign_rulebook](https://github.com/hummingbatman/reign_rulebook) |
+| **Reign** | An offline, gamified iOS habit tracker built with SwiftUI. | [hummingbatman/reign](https://github.com/hummingbatman/reign) |
+| **Reign Android** | The native Kotlin and Jetpack Compose Android app, following the same habit-progression rules. | [hummingbatman/reign_android](https://github.com/hummingbatman/reign_android) |
+| **Reign Rulebook** | Shared reference scenarios and expected results that keep the iOS and Android progression engines consistent. | [hummingbatman/reign_rulebook](https://github.com/hummingbatman/reign_rulebook) |
 
 
 ### Speaking Highlights
