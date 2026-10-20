@@ -49,6 +49,7 @@ Following the strong sales of my first AI course series, I secured further contr
 | **Copilot Lens** | Local search and browsing for AI coding-assistant conversations. | [pavanvamsi3/copilot-lens](https://github.com/pavanvamsi3/copilot-lens) |
 | **triage4s** | Evidence-backed AI issue triage for Scala, powered by LLM4S. | [pavanvamsi3/triage4s](https://github.com/pavanvamsi3/triage4s) |
 | **typesafe4s** | A Scala 3 SDK for the TypeSafe System One API. | [gruggiero/typesafe4s](https://github.com/gruggiero/typesafe4s) |
+| **toon4s** | A Scala implementation of Token-Oriented Object Notation (TOON), a compact, LLM-friendly data format for the JVM. | [com-vitthalmirji/toon4s](https://github.com/com-vitthalmirji/toon4s) |
 | **Scaladex** | Maintainer of the Scala library index, helping developers discover open-source libraries and library authors promote projects and find contributors. | [scalacenter/scaladex](https://github.com/scalacenter/scaladex) |
 | **math-stats** | Maintainer of a JavaScript statistics library with functions for mean, median, mode, variance, and standard deviation. | [pugulist/math-stats](https://github.com/pugulist/math-stats) |
 | **Google Summer of Code** | Organization Administrator & Mentor (2024, 2025). | [scalacenter/GoogleSummerOfCode](https://github.com/scalacenter/GoogleSummerOfCode) |
