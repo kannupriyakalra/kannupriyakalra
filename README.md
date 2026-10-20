@@ -10,7 +10,7 @@ I am a **core maintainer** of [LLM4S](https://github.com/llm4s/llm4s), [Copilot 
 I'm also building a global AI community focused on responsible and accessible AI development. I offer AI training and education for developers and teams – bridging the gap between functional programming and practical AI applications.
 I co-created **four hands-on AI courses (Manning liveProjects)** with **Pavan Vamsi**, based on Amit Bahree's **[Generative AI in Action](https://www.manning.com/books/generative-ai-in-action)**. See the AI Author & LLM Engineer section below.
 
-As a seasoned international speaker, I’ve delivered talks in 8+ countries at events such as **Scala Days**, **Google Open Source Conference**, and **Bay Area Scala Conference**, engaging audiences on AI, functional programming, data engineering, and software design.
+As an international speaker, I’ve delivered **18 talks and speaking engagements across 7 countries** at events including **Scala Days**, **Google Open Source Conference**, and **Bay Area Scala Conference**, covering Scala, practical AI, open source, and mentorship.
 
 ### AI Author & LLM Engineer
 
@@ -60,6 +60,18 @@ Following the strong sales of my first AI course series, I secured further contr
 ### Speaking Highlights
 
 I speak about Scala, practical AI systems, functional programming, and open source mentorship. The talks below include events shared on my [LinkedIn profile](https://www.linkedin.com/in/kannupriyakalra/) and in the [LLM4S talk library](https://github.com/llm4s/llm4s#-talks--presentations), with event details and available recordings and slides.
+
+#### Global speaking at a glance
+
+My talks archive records **18 completed talks and speaking engagements across 7 countries** from 2024 through 2026. I have spoken in the **United Kingdom, United States, Poland, India, Switzerland, Singapore, and Germany**.
+
+| Frequent locations | Engagements |
+|---|---:|
+| London, UK | 3 |
+| Lausanne, Switzerland | 2 |
+| Gdańsk, Poland | 2 |
+
+Other listed locations include Warsaw, Sunnyvale, San Francisco, Dallas, Zürich, Singapore, Munich, Pune, San Jose, and Mountain View. Topics span Scala and functional programming, practical AI, open source, and developer mentorship.
 
 #### Talks and presentations, 2024–2026
 
