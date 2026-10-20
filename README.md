@@ -10,7 +10,7 @@ I am a **core maintainer** of [LLM4S](https://github.com/llm4s/llm4s), [Copilot 
 I'm also building a global AI community focused on responsible and accessible AI development. I offer AI training and education for developers and teams – bridging the gap between functional programming and practical AI applications.
 I co-created **four hands-on AI courses (Manning liveProjects)** with **Pavan Vamsi**, based on Amit Bahree's **[Generative AI in Action](https://www.manning.com/books/generative-ai-in-action)**. See the AI Author & LLM Engineer section below.
 
-My talks archive lists **23 speaking engagements across 7 countries**—**18 completed** and **5 upcoming**—at events including **Scala Days**, **Google Open Source Conference**, and **Bay Area Scala Conference**. My sessions cover Scala, practical AI, open source, and mentorship.
+My talks archive lists **23 talks and speaking engagements across 7 countries** at events including **Scala Days**, **Google Open Source Conference**, and **Bay Area Scala Conference**. My sessions cover Scala, practical AI, open source, and mentorship.
 
 ### AI Author & LLM Engineer
 
@@ -63,7 +63,7 @@ I speak about Scala, practical AI systems, functional programming, and open sour
 
 #### Global speaking at a glance
 
-From 2024 through 2026, my talks archive lists **23 speaking engagements across 7 countries**: **18 completed talks and 5 upcoming engagements**. The countries represented are the **United Kingdom, United States, Poland, India, Switzerland, Singapore, and Germany**.
+From 2024 through 2026, my talks archive lists **23 talks and speaking engagements across 7 countries**. The countries represented are the **United Kingdom, United States, Poland, India, Switzerland, Singapore, and Germany**.
 
 London leads with five engagements; Lausanne, Gdańsk, and Singapore each appear twice. Other listed locations include Warsaw, Sunnyvale, San Francisco, Dallas, Zürich, Munich, Pune, San Jose, Mountain View, Delhi, and Hyderabad. Topics span Scala and functional programming, practical AI, open source, and developer mentorship.
 
