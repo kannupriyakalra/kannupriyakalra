@@ -65,13 +65,7 @@ I speak about Scala, practical AI systems, functional programming, and open sour
 
 My talks archive records **18 completed talks and speaking engagements across 7 countries** from 2024 through 2026. I have spoken in the **United Kingdom, United States, Poland, India, Switzerland, Singapore, and Germany**.
 
-| Frequent locations | Engagements |
-|---|---:|
-| London, UK | 3 |
-| Lausanne, Switzerland | 2 |
-| Gdańsk, Poland | 2 |
-
-Other listed locations include Warsaw, Sunnyvale, San Francisco, Dallas, Zürich, Singapore, Munich, Pune, San Jose, and Mountain View. Topics span Scala and functional programming, practical AI, open source, and developer mentorship.
+London is the most frequent destination, with three engagements; Lausanne and Gdańsk each hosted two. Other listed locations include Warsaw, Sunnyvale, San Francisco, Dallas, Zürich, Singapore, Munich, Pune, San Jose, and Mountain View. Topics span Scala and functional programming, practical AI, open source, and developer mentorship.
 
 #### Talks and presentations, 2024–2026
 
