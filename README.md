@@ -99,6 +99,18 @@ My wider speaking experience also includes Art of Scala, ScalaIO, London Scala U
 
 I'm committed to **mentoring developers**, **building inclusive communities**, and advancing the global adoption of **Scala**, **open source**, and **ethical AI**.
 
+### Let’s connect and learn together
+
+- 📧 Email: [kannupriya@llm4s.org](mailto:kannupriya@llm4s.org)
+- 🔗 [Twitter/X](https://x.com/KannupriyaKalra)
+- 🔗 [Bluesky](https://bsky.app/profile/kannupriyakalra.bsky.social)
+- 🔗 [Functional Café](https://functional.cafe/@kannupriyakalra)
+- 🔗 [Reddit](https://www.reddit.com/user/kannupriyakalra/)
+- 🔗 [GitHub](https://github.com/kannupriyakalra)
+- 🔗 Discord: `kannupriyakalra_46520`
+- 🔗 [Instagram](https://www.instagram.com/kannupriyakalra/)
+
+
 
 <p align="center">
   <img src="./sky_sports_hq_new_job_started.jpeg" alt="First day at Sky Sports HQ" />
