@@ -101,6 +101,7 @@ I'm committed to **mentoring developers**, **building inclusive communities**, a
 
 ### Let’s connect and learn together
 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kannupriyakalra/)
 - 📧 Email: [kannupriya@llm4s.org](mailto:kannupriya@llm4s.org)
 - 🔗 [Twitter/X](https://x.com/KannupriyaKalra)
 - 🔗 [Bluesky](https://bsky.app/profile/kannupriyakalra.bsky.social)
