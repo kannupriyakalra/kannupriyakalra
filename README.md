@@ -101,6 +101,7 @@ I'm committed to **mentoring developers**, **building inclusive communities**, a
 
 ### Follow my work
 
+- 📧 Email: [kannupriya@llm4s.org](mailto:kannupriya@llm4s.org)
 - 🔗 [Twitter/X](https://x.com/KannupriyaKalra)
 - 🔗 [Bluesky](https://bsky.app/profile/kannupriyakalra.bsky.social)
 - 🔗 [Functional Café](https://functional.cafe/@kannupriyakalra)
