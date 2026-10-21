@@ -99,7 +99,7 @@ My wider speaking experience also includes Art of Scala, ScalaIO, London Scala U
 
 I'm committed to **mentoring developers**, **building inclusive communities**, and advancing the global adoption of **Scala**, **open source**, and **ethical AI**.
 
-### Follow my work
+### Let’s connect and learn together
 
 - 📧 Email: [kannupriya@llm4s.org](mailto:kannupriya@llm4s.org)
 - 🔗 [Twitter/X](https://x.com/KannupriyaKalra)
