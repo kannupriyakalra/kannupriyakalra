@@ -106,7 +106,6 @@ I'm committed to **mentoring developers**, **building inclusive communities**, a
 - 🔗 [Twitter/X](https://x.com/KannupriyaKalra)
 - 🔗 [Bluesky](https://bsky.app/profile/kannupriyakalra.bsky.social)
 - 🔗 [Functional Café](https://functional.cafe/@kannupriyakalra)
-- 🔗 [Reddit](https://www.reddit.com/user/kannupriyakalra/)
 - 🔗 [GitHub](https://github.com/kannupriyakalra)
 - 🔗 Discord: `kannupriyakalra_46520`
 - 🔗 [Instagram](https://www.instagram.com/kannupriyakalra/)
